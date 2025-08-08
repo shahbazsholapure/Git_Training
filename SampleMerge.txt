@@ -1,5 +1,5 @@
 This is a merge request
 
-I am trying to create a conflict
+GIT RESET
 
-Hopefully, the conflict works
+Hello!
